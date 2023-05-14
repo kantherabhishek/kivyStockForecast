@@ -1,4 +1,4 @@
-# Stock Prediction App
+# Stock Forecast App
  # Introduction
   This is a simple Kivy app that uses the yfinance and Prophet libraries to download stock data from Yahoo Finance, make predictions using the Prophet library, and plot the results.
 
